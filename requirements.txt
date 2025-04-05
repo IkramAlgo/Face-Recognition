@@ -1,0 +1,8 @@
+deepface
+opencv-python
+scikit-learn
+pickle-mixin
+
+
+# The above libraries are required for the code to run.
+# You can install them using pip:
