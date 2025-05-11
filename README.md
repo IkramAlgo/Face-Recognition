@@ -1,6 +1,3 @@
-Got it! Here's a revised and more human-readable **README.md** for your GitHub project, highlighting your role as a backend developer:
-
----
 
 # 🎓 Face Recognition Attendance Management System (FYP)
 
